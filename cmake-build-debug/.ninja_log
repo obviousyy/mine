@@ -1,0 +1,8 @@
+# ninja log v5
+1093	1195	7305729416497349	mine.exe	672cfbfcd64d8f93
+15	996	7325413250906333	build.ninja	ac82a83465554d4
+18	1407	7287377573807546	CMakeFiles/mine.dir/choose.cpp.obj	b0aabf3133a6097e
+2	1092	7305729415512562	CMakeFiles/mine.dir/main.cpp.obj	dde006e0dcbdaaf
+10	287	7287629791912106	CMakeFiles/mine.dir/time.cpp.obj	da3c3ae2e1360519
+2	1259	7305724078979757	CMakeFiles/mine.dir/mine_map.cpp.obj	e06cdd64d2c89a8b
+9	1574	7287377575500008	CMakeFiles/mine.dir/mine.cpp.obj	91213f2077ed8c2f
